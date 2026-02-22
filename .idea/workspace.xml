@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6db4367d-875b-4668-acd6-3f4a484f3deb" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/CROSS_PLATFORM.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FILES.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVICE_LIFECYCLE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UPDATE_SUMMARY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quick_start.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_platform.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turbo-pub-tool.py.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turbo-pub.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turbo_push.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turbo_push_apple_silicon" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turbo_push_client.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turbo_push_linux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turbo_push_mac_intel" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file://$USER_HOME$/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.24.1.darwin-arm64" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="39xtzgk0NWvWpuXhf23P6WBWkNa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "git-widget-placeholder": "main",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "/Users/luster/projects/turbopush-skills",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
